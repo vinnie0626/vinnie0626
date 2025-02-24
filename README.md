@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinnie0626
-- 👀 I’m interested in AI/ML
+- 👀 I’m interested in FullStack Development 
 - 🌱 I’m currently learning Programming in MCA
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on .Net Core
 
 
 
